@@ -1,2 +1,0 @@
-# FindText
-Created with CodeSandbox
